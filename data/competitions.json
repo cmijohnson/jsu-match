@@ -1,0 +1,1444 @@
+[
+  {
+    "id": "001",
+    "name": "中国国际大学生创新大赛（原中国国际“互联网+ ”大学生创新创业 大赛）",
+    "level": "A+",
+    "fit": "可参加",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 创新创业 / 商业综合 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/001.md"
+  },
+  {
+    "id": "002",
+    "name": "“挑战杯”全国大学生课外学术科技作品竞赛",
+    "level": "A+",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/002.md"
+  },
+  {
+    "id": "003",
+    "name": "“挑战杯”中国大学生创业计划大赛",
+    "level": "A+",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/003.md"
+  },
+  {
+    "id": "004",
+    "name": "ACM-ICPC国际大学生程序设计竞赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "算法编程",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 算法编程 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/004.md"
+  },
+  {
+    "id": "005",
+    "name": "全国大学生数学建模竞赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "数据分析",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 数据分析 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/005.md"
+  },
+  {
+    "id": "006",
+    "name": "全国大学生电子设计竞赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "电子 / 嵌入式 / 通信",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 电子 / 嵌入式 / 通信 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/006.md"
+  },
+  {
+    "id": "007",
+    "name": "中国大学生医学技术技能大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/007.md"
+  },
+  {
+    "id": "008",
+    "name": "全国大学生机械创新设计大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/008.md"
+  },
+  {
+    "id": "009",
+    "name": "全国大学生结构设计竞赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/009.md"
+  },
+  {
+    "id": "010",
+    "name": "全国大学生广告艺术大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/010.md"
+  },
+  {
+    "id": "011",
+    "name": "全国大学生智能汽车竞赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "人工智能 / 智能系统",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 人工智能 / 智能系统 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/011.md"
+  },
+  {
+    "id": "012",
+    "name": "全国大学生电子商务“创新、创意及创业”挑战赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "电子 / 嵌入式 / 通信",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 电子 / 嵌入式 / 通信 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/012.md"
+  },
+  {
+    "id": "013",
+    "name": "中国大学生工程实践与创新能力大赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "实验 / 工程实践",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 实验 / 工程实践 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/013.md"
+  },
+  {
+    "id": "014",
+    "name": "全国大学生物流设计大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/014.md"
+  },
+  {
+    "id": "015",
+    "name": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛-①英 语演讲、②英语辩论、③英语写作、④英语阅读",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "语言表达 / 人文",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "1413439342@qq.com，提交截止时间为2025年9月30日（截至选定日期24:00）。",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/015.md"
+  },
+  {
+    "id": "016",
+    "name": "两岸新锐设计竞赛·华灿奖",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/016.md"
+  },
+  {
+    "id": "017",
+    "name": "全国大学生创新创业训练计划年会展示",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 创新创业 / 商业综合 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/017.md"
+  },
+  {
+    "id": "018",
+    "name": "全国大学生化工设计竞赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/018.md"
+  },
+  {
+    "id": "019",
+    "name": "全国大学生机器人大赛-CURC",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "人工智能 / 智能系统",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 人工智能 / 智能系统 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/019.md"
+  },
+  {
+    "id": "020",
+    "name": "全国大学生市场调查与分析大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "数据分析",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/020.md"
+  },
+  {
+    "id": "021",
+    "name": "全国大学生先进成图技术与产品信息建模创新大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/021.md"
+  },
+  {
+    "id": "022",
+    "name": "全国三维数字化创新设计大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/022.md"
+  },
+  {
+    "id": "023",
+    "name": "“西门子杯”中国智能制造挑战赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "人工智能 / 智能系统",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 人工智能 / 智能系统 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/023.md"
+  },
+  {
+    "id": "024",
+    "name": "中国大学生服务外包创新创业大赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "软件开发",
+    "summary": "工程实践和项目交付导向明显，适合作为信安专业做项目制积累的比赛。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/024.md"
+  },
+  {
+    "id": "025",
+    "name": "中国大学生计算机设计大赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "软件开发",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 软件开发 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/025.md"
+  },
+  {
+    "id": "026",
+    "name": "中国高校计算机大赛-①大数据挑战赛、②团体程序设计天梯赛、③ 移动应用创新赛、④网络技术挑战赛、⑤人工智能创意赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "软件开发",
+    "summary": "赛道丰富，适合根据信安专业的编程、网络、AI、系统特长选择分项突破。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/026.md"
+  },
+  {
+    "id": "027",
+    "name": "蓝桥杯全国软件和信息技术专业人才大赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "算法编程",
+    "summary": "对信息安全专业非常友好，适合作为程序设计与就业竞赛的高性价比主线项目。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/027.md"
+  },
+  {
+    "id": "028",
+    "name": "米兰设计周-中国高校设计学科师生优秀作品展",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/028.md"
+  },
+  {
+    "id": "029",
+    "name": "全国大学生地质技能竞赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/029.md"
+  },
+  {
+    "id": "030",
+    "name": "全国大学生光电设计竞赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "电子 / 嵌入式 / 通信",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 电子 / 嵌入式 / 通信 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/030.md"
+  },
+  {
+    "id": "031",
+    "name": "全国大学生集成电路创新创业大赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "电子 / 嵌入式 / 通信",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 电子 / 嵌入式 / 通信 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/031.md"
+  },
+  {
+    "id": "032",
+    "name": "全国大学生金相技能大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "第十二届全国大学生金相技能大赛 甜蜜的梦谁都不会错过，终于迎来这欢聚时刻。 徕卡杯第十二届全国大学生金相技能大赛决赛阶段比赛于2023年8月9日至14日在郑州大学举办。",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/032.md"
+  },
+  {
+    "id": "033",
+    "name": "全国大学生信息安全竞赛",
+    "level": "A",
+    "fit": "强相关",
+    "trackType": "CTF / 攻防对抗",
+    "summary": "信息安全专业最值得长期投入的国赛之一，含金量、能力匹配度和训练价值都很高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/033.md"
+  },
+  {
+    "id": "034",
+    "name": "未来设计师·全国高校数字艺术设计大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/034.md"
+  },
+  {
+    "id": "035",
+    "name": "全国周培源大学生力学竞赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "实验 / 工程实践",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/035.md"
+  },
+  {
+    "id": "036",
+    "name": "中国大学生机械工程创新创意大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "实验 / 工程实践",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/036.md"
+  },
+  {
+    "id": "037",
+    "name": "中国机器人大赛暨RoboCup机器人世界杯中国赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "人工智能 / 智能系统",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 人工智能 / 智能系统 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/037.md"
+  },
+  {
+    "id": "038",
+    "name": "“中国软件杯”大学生软件设计大赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "软件开发",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 软件开发 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "(一)报名阶段(2026年3月24日-6月30日)",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/038.md"
+  },
+  {
+    "id": "039",
+    "name": "中美青年创客大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/039.md"
+  },
+  {
+    "id": "040",
+    "name": "睿抗机器人开发者大赛（RAICOM）",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "人工智能 / 智能系统",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 人工智能 / 智能系统 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/040.md"
+  },
+  {
+    "id": "041",
+    "name": "“大唐杯”全国大学生新一代信息通信技术大赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "电子 / 嵌入式 / 通信",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 电子 / 嵌入式 / 通信 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/041.md"
+  },
+  {
+    "id": "042",
+    "name": "华为ICT大赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "人工智能 / 智能系统",
+    "summary": "平台影响力大、企业资源强，适合想走网络、云、AI、计算方向的同学长期准备。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/042.md"
+  },
+  {
+    "id": "043",
+    "name": "全国大学生嵌入式芯片与系统设计竞赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "电子 / 嵌入式 / 通信",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 电子 / 嵌入式 / 通信 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待审核目前是正常情况，竞赛组委会会在8月31日报名截止前联系各个学校老师及组委会进行资格审核，重点审核参赛队伍信息提交完整度、项目创新性、科学性、可行性、设计难度以及平台适用度等。",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/043.md"
+  },
+  {
+    "id": "044",
+    "name": "全国大学生生命科学竞赛（CULSC）",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/044.md"
+  },
+  {
+    "id": "045",
+    "name": "全国大学生物理实验竞赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "实验 / 工程实践",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/045.md"
+  },
+  {
+    "id": "046",
+    "name": "全国高校BIM毕业设计创新大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/046.md"
+  },
+  {
+    "id": "047",
+    "name": "全国高校商业精英挑战赛-①品牌策划竞赛、②文旅与会展创新创业实 践竞赛、③国际贸易竞赛、④创新创业竞赛、⑤会计与商业管理案例 竞赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 创新创业 / 商业综合 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/047.md"
+  },
+  {
+    "id": "048",
+    "name": "“学创杯”全国大学生创业综合模拟大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/048.md"
+  },
+  {
+    "id": "049",
+    "name": "中国高校智能机器人创意大赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "人工智能 / 智能系统",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 人工智能 / 智能系统 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/049.md"
+  },
+  {
+    "id": "050",
+    "name": "中国好创意暨全国数字艺术设计大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/050.md"
+  },
+  {
+    "id": "051",
+    "name": "中国机器人及人工智能大赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "人工智能 / 智能系统",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 人工智能 / 智能系统 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/051.md"
+  },
+  {
+    "id": "052",
+    "name": "全国大学生节能减排社会实践与科技竞赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/052.md"
+  },
+  {
+    "id": "053",
+    "name": "“21世纪杯”全国英语演讲比赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "语言表达 / 人文",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/053.md"
+  },
+  {
+    "id": "054",
+    "name": "iCAN大学生创新创业大赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 创新创业 / 商业综合 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/054.md"
+  },
+  {
+    "id": "055",
+    "name": "“工行杯”全国大学生金融科技创新大赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "数据分析",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 数据分析 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/055.md"
+  },
+  {
+    "id": "056",
+    "name": "中华经典诵写讲大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "语言表达 / 人文",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/056.md"
+  },
+  {
+    "id": "057",
+    "name": "“外教社杯”全国高校学生跨文化能力大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "语言表达 / 人文",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/057.md"
+  },
+  {
+    "id": "058",
+    "name": "百度之星·程序设计大赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "算法编程",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 算法编程 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/058.md"
+  },
+  {
+    "id": "059",
+    "name": "全国大学生工业设计大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/059.md"
+  },
+  {
+    "id": "060",
+    "name": "全国大学生水利创新设计大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/060.md"
+  },
+  {
+    "id": "061",
+    "name": "全国大学生化工实验大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "实验 / 工程实践",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/061.md"
+  },
+  {
+    "id": "062",
+    "name": "全国大学生化学实验创新设计大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/062.md"
+  },
+  {
+    "id": "063",
+    "name": "全国大学生计算机系统能力大赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "软件开发",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 软件开发 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/063.md"
+  },
+  {
+    "id": "064",
+    "name": "全国大学生花园设计建造竞赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/064.md"
+  },
+  {
+    "id": "065",
+    "name": "全国大学生物联网设计竞赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "人工智能 / 智能系统",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 人工智能 / 智能系统 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/065.md"
+  },
+  {
+    "id": "066",
+    "name": "全国大学生信息安全与对抗技术竞赛",
+    "level": "A",
+    "fit": "强相关",
+    "trackType": "CTF / 攻防对抗",
+    "summary": "偏攻防与对抗实战，适合有 CTF、漏洞利用和系统攻防基础的信安团队冲刺。",
+    "status": "未发布",
+    "displayTime": "2025年10月26日，第22届全国大学生信息安全与对抗技术竞赛（ISCC）“智能安全赛”全国决赛在春城昆明的西南林业大学圆满落下帷幕。本届大赛由中国兵工学会、北京理工大学、教育部…",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/066.md"
+  },
+  {
+    "id": "067",
+    "name": "全国大学生测绘学科创新创业智能大赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "人工智能 / 智能系统",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 人工智能 / 智能系统 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/067.md"
+  },
+  {
+    "id": "068",
+    "name": "全国大学生统计建模大赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "数据分析",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 数据分析 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/068.md"
+  },
+  {
+    "id": "069",
+    "name": "全国大学生能源经济学术创意大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/069.md"
+  },
+  {
+    "id": "070",
+    "name": "全国大学生基础医学创新研究暨实验设计论坛（大赛）",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/070.md"
+  },
+  {
+    "id": "071",
+    "name": "全国大学生数字媒体科技作品及创意竞赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 创新创业 / 商业综合 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/071.md"
+  },
+  {
+    "id": "072",
+    "name": "全国本科院校税收风险管控案例大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/072.md"
+  },
+  {
+    "id": "073",
+    "name": "全国企业竞争模拟大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/073.md"
+  },
+  {
+    "id": "074",
+    "name": "全国高等院校数智化企业经营沙盘大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/074.md"
+  },
+  {
+    "id": "075",
+    "name": "全国数字建筑创新应用大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/075.md"
+  },
+  {
+    "id": "076",
+    "name": "全球校园人工智能算法精英大赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "算法编程",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 算法编程 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/076.md"
+  },
+  {
+    "id": "077",
+    "name": "国际大学生智能农业装备创新大赛",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "人工智能 / 智能系统",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 人工智能 / 智能系统 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/077.md"
+  },
+  {
+    "id": "078",
+    "name": "“科云杯”全国大学生财会职业能力大赛",
+    "level": "A",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/078.md"
+  },
+  {
+    "id": "079",
+    "name": "全国大学生机器人大赛-RoboTac",
+    "level": "A",
+    "fit": "可参加",
+    "trackType": "人工智能 / 智能系统",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 人工智能 / 智能系统 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/079.md"
+  },
+  {
+    "id": "080",
+    "name": "美国（国际）大学生数学建模竞赛",
+    "level": "B",
+    "fit": "可参加",
+    "trackType": "数据分析",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 数据分析 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/080.md"
+  },
+  {
+    "id": "081",
+    "name": "全国大学生英语竞赛",
+    "level": "B",
+    "fit": "不推荐",
+    "trackType": "语言表达 / 人文",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "2023年5月7日 9:00~11:00 初赛",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/081.md"
+  },
+  {
+    "id": "082",
+    "name": "中国大学生方程式汽车大赛",
+    "level": "B",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/082.md"
+  },
+  {
+    "id": "083",
+    "name": "CAR-ASHRAE学生设计竞赛",
+    "level": "B",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/083.md"
+  },
+  {
+    "id": "084",
+    "name": "全国大学生自动化系统应用大赛",
+    "level": "B",
+    "fit": "可参加",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 创新创业 / 商业综合 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/084.md"
+  },
+  {
+    "id": "085",
+    "name": "恒顺香醋杯学生创新大赛",
+    "level": "B",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/085.md"
+  },
+  {
+    "id": "086",
+    "name": "全国大学生软件测试大赛",
+    "level": "B",
+    "fit": "可参加",
+    "trackType": "软件开发",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 软件开发 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/086.md"
+  },
+  {
+    "id": "087",
+    "name": "中国数据挖掘大赛",
+    "level": "B",
+    "fit": "可参加",
+    "trackType": "数据分析",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 数据分析 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/087.md"
+  },
+  {
+    "id": "088",
+    "name": "全国大学生物联网技术与应用“三创”大赛",
+    "level": "B",
+    "fit": "可参加",
+    "trackType": "人工智能 / 智能系统",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 人工智能 / 智能系统 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/088.md"
+  },
+  {
+    "id": "089",
+    "name": "全国大学生数学竞赛",
+    "level": "B",
+    "fit": "不推荐",
+    "trackType": "算法编程",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "2022年第五届华教杯全国大学生数学竞赛 报名时间：即日起-2022年11月25日 大赛官网： www.cecmath.com 教育厅表彰",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/089.md"
+  },
+  {
+    "id": "090",
+    "name": "全国“互联网+化学反应工程”课模设计大赛",
+    "level": "B",
+    "fit": "可参加",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 创新创业 / 商业综合 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/090.md"
+  },
+  {
+    "id": "091",
+    "name": "全国高等院校项目管理大赛",
+    "level": "B",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/091.md"
+  },
+  {
+    "id": "092",
+    "name": "“新道杯”全国大学生会计信息化技能大赛",
+    "level": "B",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/092.md"
+  },
+  {
+    "id": "093",
+    "name": "全国保险产品创新创意大赛",
+    "level": "B",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/093.md"
+  },
+  {
+    "id": "094",
+    "name": "中华全国日语演讲比赛",
+    "level": "B",
+    "fit": "不推荐",
+    "trackType": "语言表达 / 人文",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/094.md"
+  },
+  {
+    "id": "095",
+    "name": "中国汽车造型设计大赛",
+    "level": "B",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/095.md"
+  },
+  {
+    "id": "096",
+    "name": "全国医学生解剖学绘图大赛",
+    "level": "B",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/096.md"
+  },
+  {
+    "id": "097",
+    "name": "全国大学生制药工程设计竞赛",
+    "level": "B",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/097.md"
+  },
+  {
+    "id": "098",
+    "name": "全国大学生可再生能源科技竞赛",
+    "level": "B",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/098.md"
+  },
+  {
+    "id": "099",
+    "name": "全国大学生农业水利工程及相关专业创新设计大赛",
+    "level": "B",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/099.md"
+  },
+  {
+    "id": "100",
+    "name": "全国大学生焊接创新大赛",
+    "level": "B",
+    "fit": "不推荐",
+    "trackType": "实验 / 工程实践",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/100.md"
+  },
+  {
+    "id": "101",
+    "name": "全国高校无机非金属材料基础知识大赛",
+    "level": "B",
+    "fit": "不推荐",
+    "trackType": "创新创业 / 商业综合",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/101.md"
+  },
+  {
+    "id": "102",
+    "name": "全国大学生工业设计大赛",
+    "level": "B",
+    "fit": "不推荐",
+    "trackType": "设计创意",
+    "summary": "与信息安全专业主线关联较弱，除非团队有跨专业资源，否则整体投入优先级不高。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/102.md"
+  },
+  {
+    "id": "103",
+    "name": "中国教育机器人大赛",
+    "level": "B",
+    "fit": "可参加",
+    "trackType": "人工智能 / 智能系统",
+    "summary": "对信息安全专业有较强迁移价值，适合作为 人工智能 / 智能系统 方向的重要补充。",
+    "status": "未发布",
+    "displayTime": "待官方发布",
+    "monthTags": [
+      "待发布/未知"
+    ],
+    "mdPath": "./content/103.md"
+  }
+]

@@ -3,123 +3,61 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>JSU Match</title>
+    <title>JSU Match 2.0</title>
     <meta
       name="description"
-      content="江苏大学竞赛资料静态 Wiki，支持按专业角度、赛事等级、举办时间和状态筛选。"
+      content="江苏大学竞赛 Wiki。按学院、专业、赛事等级、赛道、月份、状态和推荐等级筛选，查看官网、通知、报名入口与完整调研条目。"
     />
     <link rel="stylesheet" href="./assets/styles.css" />
   </head>
   <body>
-    <div class="app-shell">
-      <header class="hero">
-        <div class="hero-copy">
-          <p class="eyebrow">JSU Match</p>
-          <h1>江苏大学竞赛 Wiki</h1>
-          <p class="hero-text">
-            基于现有 103 项赛事调研文档构建的静态站点，提供筛选、概览和 Markdown
-            详情阅读能力。
-          </p>
-        </div>
-        <div class="hero-stats" id="hero-stats">
-          <div class="stat-card">
-            <span class="stat-label">赛事总数</span>
-            <strong class="stat-value" data-stat="total">-</strong>
-          </div>
-          <div class="stat-card">
-            <span class="stat-label">时间口径</span>
-            <strong class="stat-value">截至 2026-05-07</strong>
-          </div>
-          <div class="stat-card">
-            <span class="stat-label">详情加载</span>
-            <strong class="stat-value">Markdown 渲染</strong>
-          </div>
+    <div class="site-noise" aria-hidden="true"></div>
+    <div class="site-grid" aria-hidden="true"></div>
+    <div class="site-shell">
+      <header class="topbar">
+        <a class="brand" href="#/home" aria-label="返回首页">
+          <span class="brand-mark">JSU</span>
+          <span class="brand-copy">
+            <strong>Match 2.0</strong>
+            <small>College-to-Major Competition Wiki</small>
+          </span>
+        </a>
+
+        <nav class="primary-nav" aria-label="主导航">
+          <a class="nav-link" data-nav-link href="#/home">首页</a>
+          <a class="nav-link" data-nav-link href="#/competitions">赛事库</a>
+        </nav>
+
+        <div class="context-controls">
+          <label class="control">
+            <span>学院</span>
+            <select id="college-select"></select>
+          </label>
+          <label class="control">
+            <span>专业</span>
+            <select id="major-select"></select>
+          </label>
+          <form class="search-shell" id="search-form">
+            <input
+              id="search-input"
+              type="search"
+              placeholder="搜索比赛名、赛制、标签、推荐理由"
+              autocomplete="off"
+            />
+            <button class="search-button" type="submit">搜索</button>
+          </form>
+          <button class="ghost-button" id="share-context-button" type="button">分享当前视图</button>
         </div>
       </header>
 
-      <main id="app" class="main-layout">
-        <section id="list-view" class="view view-list">
-          <section class="panel filters-panel">
-            <div class="panel-header">
-              <h2>筛选</h2>
-              <button id="reset-filters" class="text-button" type="button">重置</button>
-            </div>
-            <div class="filters-grid">
-              <label class="filter-group">
-                <span>专业角度</span>
-                <select id="fit-filter">
-                  <option value="">全部</option>
-                  <option value="强相关">强相关</option>
-                  <option value="可参加">可参加</option>
-                  <option value="不推荐">不推荐</option>
-                </select>
-              </label>
+      <section class="context-bar">
+        <div id="context-breadcrumb" class="context-breadcrumb"></div>
+        <div id="context-summary" class="context-summary"></div>
+      </section>
 
-              <label class="filter-group">
-                <span>赛事等级</span>
-                <select id="level-filter">
-                  <option value="">全部</option>
-                  <option value="A+">A+</option>
-                  <option value="A">A</option>
-                  <option value="B">B</option>
-                </select>
-              </label>
+      <main id="app" class="app-main" aria-live="polite"></main>
 
-              <label class="filter-group">
-                <span>举办时间</span>
-                <select id="month-filter">
-                  <option value="">全部</option>
-                  <option value="1月">1月</option>
-                  <option value="2月">2月</option>
-                  <option value="3月">3月</option>
-                  <option value="4月">4月</option>
-                  <option value="5月">5月</option>
-                  <option value="6月">6月</option>
-                  <option value="7月">7月</option>
-                  <option value="8月">8月</option>
-                  <option value="9月">9月</option>
-                  <option value="10月">10月</option>
-                  <option value="11月">11月</option>
-                  <option value="12月">12月</option>
-                  <option value="待发布/未知">待发布/未知</option>
-                </select>
-              </label>
-
-              <label class="filter-group">
-                <span>状态</span>
-                <select id="status-filter">
-                  <option value="">全部</option>
-                  <option value="未发布">未发布</option>
-                  <option value="未开始">未开始</option>
-                  <option value="进行中">进行中</option>
-                  <option value="已结束">已结束</option>
-                </select>
-              </label>
-            </div>
-          </section>
-
-          <section class="panel list-panel">
-            <div class="panel-header">
-              <div>
-                <h2>赛事列表</h2>
-                <p id="results-summary" class="muted">加载中...</p>
-              </div>
-            </div>
-            <div id="active-filters" class="active-filters"></div>
-            <div id="cards" class="cards-grid" aria-live="polite"></div>
-          </section>
-        </section>
-
-        <section id="detail-view" class="view view-detail hidden">
-          <div class="panel detail-panel">
-            <div class="panel-header">
-              <button id="back-button" class="text-button" type="button">返回列表</button>
-            </div>
-            <div id="detail-meta" class="detail-meta"></div>
-            <article id="detail-content" class="markdown-body"></article>
-          </div>
-        </section>
-      </main>
+      <div id="toast" class="toast" role="status" aria-live="polite"></div>
     </div>
 
     <script src="./assets/vendor/marked.umd.js"></script>

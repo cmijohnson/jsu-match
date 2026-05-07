@@ -3,29 +3,30 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>JSU Match 2.0</title>
+    <title>JSU Match 竞赛知识库</title>
     <meta
       name="description"
-      content="江苏大学竞赛 Wiki。按学院、专业、赛事等级、赛道、月份、状态和推荐等级筛选，查看官网、通知、报名入口与完整调研条目。"
+      content="江苏大学竞赛知识库。支持按学院、专业、赛事等级、赛制、月份、状态和推荐等级检索，并查看官网、通知、报名入口与原始 Markdown 条目。"
     />
     <link rel="stylesheet" href="./assets/styles.css" />
   </head>
   <body>
-    <div class="site-noise" aria-hidden="true"></div>
-    <div class="site-grid" aria-hidden="true"></div>
     <div class="site-shell">
       <header class="topbar">
-        <a class="brand" href="#/home" aria-label="返回首页">
-          <span class="brand-mark">JSU</span>
-          <span class="brand-copy">
-            <strong>Match 2.0</strong>
-            <small>College-to-Major Competition Wiki</small>
-          </span>
-        </a>
+        <div class="brand-block">
+          <a class="brand" href="#/home" aria-label="返回首页">
+            <span class="brand-mark">JSU</span>
+            <span class="brand-copy">
+              <strong>JSU Match</strong>
+              <small>江苏大学竞赛知识库</small>
+            </span>
+          </a>
+          <p class="brand-note">按学院与专业切换竞赛视角，保留结构化结论与原始调研条目。</p>
+        </div>
 
         <nav class="primary-nav" aria-label="主导航">
-          <a class="nav-link" data-nav-link href="#/home">首页</a>
-          <a class="nav-link" data-nav-link href="#/competitions">赛事库</a>
+          <a class="nav-link" data-nav-link href="#/home">门户</a>
+          <a class="nav-link" data-nav-link href="#/competitions">赛事总览</a>
         </nav>
 
         <div class="context-controls">
@@ -41,7 +42,7 @@
             <input
               id="search-input"
               type="search"
-              placeholder="搜索比赛名、赛制、标签、推荐理由"
+              placeholder="搜索比赛名、赛制、标签或专业评语"
               autocomplete="off"
             />
             <button class="search-button" type="submit">搜索</button>
